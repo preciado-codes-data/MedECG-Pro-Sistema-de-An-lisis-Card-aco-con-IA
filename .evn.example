@@ -1,0 +1,6 @@
+# Configuración de la base de datos MongoDB
+MONGO_URI=mongodb://localhost:27017/
+DB_NAME=Tesis_ECG
+
+# Configuración de LM Studio
+LM_STUDIO_API=http://localhost:1234/v1
