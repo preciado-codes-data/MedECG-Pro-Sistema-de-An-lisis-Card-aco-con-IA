@@ -196,3 +196,5 @@ Asesoria:
 ---
 
 ## 📜 Licencia
+
+Este proyecto está bajo la licencia MIT. Ver <a href="https://github.com/preciado-codes-data/MedECG-Pro-Sistema-de-An-lisis-Card-aco-con-IA/blob/98c6dda5cb34f820ea05e6757cd15dc5f543e25d/LICENSE">LICENSE</a> para más detalles.
