@@ -1,0 +1,13 @@
+streamlit>=1.28.0
+requests>=2.31.0
+pymongo>=4.6.0
+bson>=0.5.10
+numpy>=1.24.3
+Pillow>=10.0.1
+matplotlib>=3.7.2
+scipy>=1.11.1
+googletrans==4.0.0-rc1
+pandas>=2.0.3
+plotly>=5.17.0
+opencv-python>=4.8.0.76
+uuid>=1.30
